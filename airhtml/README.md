@@ -1,5 +1,5 @@
 # airhtml
-
+node version: 12.12 LTS
 ## Project setup
 ```
 npm install
